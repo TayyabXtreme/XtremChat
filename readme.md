@@ -23,7 +23,7 @@ XtremChat is a simple GUI-based chatbot built using C++ and Windows Forms. The c
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/XtremChat.git
+    git clone https://github.com/TayyabXtreme/XtremChat.git
     cd XtremChat
     ```
 
