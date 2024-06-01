@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+d:\visualstudio\xtremchat\xtremchat\myform.h(174): warning C4101: 'value': unreferenced local variable
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  XtremChat.vcxproj -> D:\visualStudio\XtremChat\Debug\XtremChat.exe
